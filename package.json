@@ -2,7 +2,7 @@
   "name": "atom-freemarker-server",
   "main": "./lib/ftl-server",
   "version": "0.0.3",
-  "description": "atom-ftl-server",
+  "description": "atom-freemarker-server",
   "keywords": [],
   "consumedServices": {
     "status-bar": {
@@ -11,7 +11,7 @@
       }
     }
   },
-  "repository": "https://github.com/fengzilong/atom-ftl-server",
+  "repository": "https://github.com/fengzilong/atom-freemarker-server",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
