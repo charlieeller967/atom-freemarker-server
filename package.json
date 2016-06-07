@@ -1,7 +1,7 @@
 {
   "name": "atom-ftl-server",
   "main": "./lib/ftl-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "atom-ftl-server",
   "keywords": [],
   "consumedServices": {
