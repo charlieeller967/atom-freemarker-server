@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ftl-server",
+        "command": "ftl-server:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ftl-server",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ftl-server:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

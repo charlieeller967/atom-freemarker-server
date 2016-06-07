@@ -1,0 +1,15 @@
+{
+	"indent": {
+		"value": "\t"
+	},
+	"whiteSpace": {
+		"before": {
+			"FunctionExpressionOpeningBrace": 1,
+			"FunctionExpressionClosingBrace": 1
+		},
+		"after": {
+			"FunctionExpressionOpeningBrace": 1,
+			"FunctionExpressionClosingBrace": -1
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "atom-ftl-server",
+  "main": "./lib/ftl-server",
+  "version": "0.0.0",
+  "description": "atom-ftl-server",
+  "keywords": [],
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "repository": "https://github.com/fengzilong/atom-ftl-server",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "jquery": "^2.2.4",
+    "vhtml": "^1.0.0"
+  }
+}
