@@ -1,6 +1,6 @@
 {
   "name": "atom-freemarker-server",
-  "main": "./lib/ftl-server",
+  "main": "./lib/freemarker-server",
   "version": "0.0.4",
   "description": "atom-freemarker-server",
   "keywords": [],
@@ -17,8 +17,18 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "ansi-to-html": "^0.4.1",
+    "atom-message-panel": "^1.2.4",
     "atom-space-pen-views": "^2.2.0",
+    "body-parser": "^1.15.1",
+    "combine-stream": "0.0.4",
+    "cookie-parser": "^1.4.3",
+    "domify": "^1.4.0",
+    "express": "^4.13.4",
     "jquery": "^2.2.4",
+    "morgan": "^1.7.0",
+    "split": "^1.0.0",
+    "static-favicon": "^1.0.2",
     "vhtml": "^1.0.0"
   }
 }
