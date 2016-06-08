@@ -1,7 +1,7 @@
 {
   "name": "atom-freemarker-server",
   "main": "./lib/ftl-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "atom-freemarker-server",
   "keywords": [],
   "consumedServices": {
